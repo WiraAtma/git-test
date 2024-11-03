@@ -1,2 +1,2 @@
 # git-test
-Repo Untuk Mencoba git Remote Origin hehehe
+Repo Untuk Mencoba git Remote Origin
